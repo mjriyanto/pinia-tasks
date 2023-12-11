@@ -1,0 +1,24 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "title": "mow the lawn",
+      "isFav": false
+    },
+    {
+      "id": 3,
+      "title": "become an eldern lord",
+      "isFav": true
+    },
+    {
+      "id": 4,
+      "title": "eat some pineapples",
+      "isFav": false
+    },
+    {
+      "title": "play gloomheaven",
+      "isFav": true,
+      "id": 1920
+    }
+  ]
+}
